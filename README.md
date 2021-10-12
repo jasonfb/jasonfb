@@ -1,8 +1,12 @@
 ### Hi, I'm Jason Fleetwood-Boldt 👋
 
+• CEO/Founder (Verso Commerce)[https://versocommerce.com]
+
 • Automated Testing Evangelist
+
 • Creator of Ruby Gems Hot-Glue and Universal Track Manager
 
+• Ruby-React-React Native
 
 - 🔭 I’m currently working on ...(?)
 - 🌱 I’m currently learning ...React Native
