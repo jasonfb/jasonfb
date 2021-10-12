@@ -1,6 +1,6 @@
 ### Hi, I'm Jason Fleetwood-Boldt 👋
 
-• CEO/Founder [https://versocommerce.com](Verso Commerce)
+• CEO/Founder, Verso Commerce - please visit https://versocommerce.com
 
 • Automated Testing Evangelist
 
