@@ -4,7 +4,7 @@
 
 • Automated Testing Evangelist
 
-• Creator of Ruby Gems Hot-Glue and Universal Track Manager
+• Creator of Ruby Gems Hot-Glue, Nonschema Migrations, and Universal Track Manager
 
 • Ruby-React-React Native
 
