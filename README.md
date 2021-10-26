@@ -1,6 +1,6 @@
 ### Hi, I'm Jason Fleetwood-Boldt 👋
 
-• CEO/Founder, Verso Commerce - please visit https://versocommerce.com
+• CEO/Founder, Helios: The Automated Testing Dev Shop - please visit https://heliosdev.shop
 
 • Automated Testing Evangelist
 
@@ -8,11 +8,11 @@
 
 • Ruby-React-React Native
 
-- 🔭 I’m currently working on ...(?)
+- 🔭 I’m currently working on ... (?)
 - 🌱 I’m currently learning ...React Native
 - 👯 I’m looking to collaborate on ... Ruby, React, Cypress
 - 🤔 I’m looking for help with ... (?)
-- 💬 Ask me about ...Ruby, React, Cypress, Capybara
-- 📫 How to reach me: see versocommerce.com
+- 💬 Ask me about ... Ruby, React, Cypress, Capybara
+- 📫 How to reach me: https://heliosdev.shop
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Been coding since the 90s
