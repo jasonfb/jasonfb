@@ -6,4 +6,4 @@
 
 • Creator of Ruby Gems Hot-Glue, Nonschema Migrations, and Universal Track Manager
 
-GET SOME MERCH @ -> shop.heliosdev.shop
+GET SOME MERCH @ -> (shop.heliosdev.shop)[https://shop.heliosdev.shop?utm_source=github.com&utm_campaign=jasonfb_profile]
