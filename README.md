@@ -11,8 +11,8 @@ I'm React, Rails, and React Native.
 
 🎙 My recent YouTube Videos 
 
-- [Remote dans la tech, que faut-il en penser ? 🇫🇷](https://guillaumebriday.fr/podcast/remote-dans-la-tech-que-faut-il-en-penser)
-- [Au secours, mon hébergeur a pris feu 🇫🇷](https://guillaumebriday.fr/podcast/au-secours-mon-hebergeur-a-pris-feu)
+- [Hot Glue Getting Started Example](https://www.youtube.com/watch?v=_dfnW-YR8Jg)
+- [Hot Glue Getting Example 1](https://www.youtube.com/watch?v=9Fy_rReofis)
 
 📫 How to reach me
 
