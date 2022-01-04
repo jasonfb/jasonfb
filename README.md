@@ -12,7 +12,7 @@ I'm React, Rails, and React Native.
 🎙 My recent YouTube Videos 
 
 - [Hot Glue Getting Started Example](https://www.youtube.com/watch?v=_dfnW-YR8Jg)
-- [Hot Glue Getting Example 1](https://www.youtube.com/watch?v=9Fy_rReofis)
+- [Hot Glue Example 1](https://www.youtube.com/watch?v=9Fy_rReofis)
 
 📫 How to reach me
 
