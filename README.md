@@ -2,7 +2,7 @@
 
 My name is Jason and I love the Web.
 
-I'm React, Rails, and React Native.
+I'm Rails, React, Typescript, and Swift
 
 💻 Here's a few of the projects I'm working on:
 
