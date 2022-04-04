@@ -20,10 +20,11 @@ I'm Rails, React, Typescript, and Swift
 [@jaflebol](https://twitter/jaflebol)
 
 
+<!--
 Jason's dev shop in Brooklyn:  [**HELIOS DEV SHOP**](https://heliosdev.shop/?utm_source=github.com) 
 
 ![Heliosdev shop — LOGO-117x95](https://user-images.githubusercontent.com/59002/150640039-2d49d44c-45a8-4df6-b3df-982b1106ba4d.jpg)
-
+-->
 
 
 
