@@ -2,8 +2,6 @@
 
 My name is Jason FB and I love the Web.
 
-I'm Rails, React, Typescript, and Swift
-
 💻 Here's a few of the projects I'm working on:
 
 ![Hot Glue](https://user-images.githubusercontent.com/59002/150639810-83f36b88-bf98-4751-a237-4456e0035656.jpg) is rapid prototype builder for Turbo Rails. [Find out more](https://jfbcodes.com/p/hot-glue-in-depth-tutorial)  or check out the [GH repo here](https://github.com/jasonfb/hot-glue) 
