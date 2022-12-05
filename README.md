@@ -16,16 +16,3 @@ My name is Jason FB and I love the Web.
 
 ![Twitter-25x25](https://user-images.githubusercontent.com/59002/146845525-cc57a29e-a94f-4ea7-8c92-5da0f24170ce.png) 
 [@jaflebol](https://twitter/jaflebol)
-
-
-<!--
-Jason's dev shop in Brooklyn:  [**HELIOS DEV SHOP**](https://heliosdev.shop/?utm_source=github.com) 
-
-![Heliosdev shop — LOGO-117x95](https://user-images.githubusercontent.com/59002/150640039-2d49d44c-45a8-4df6-b3df-982b1106ba4d.jpg)
--->
-
-
-
-📊 My Stats
-
-![https://github.com/jasonfb/github-readme-stats](https://github-readme-stats.vercel.app/api?username=jasonfb&count_private=true&show_icons=true)
