@@ -2,6 +2,15 @@
 
 My name is Jason FB, and I love the Web. Here are a few of the projects I'm working on:
 
+![fulllogo_transparent_nobuffer-100x](https://github.com/user-attachments/assets/247122b1-2734-4348-ba2a-d769274fb3ee) 
+
+Quick Video Chat is the first all-in-one browser based presentation platform for modern video chatting. It supports screensharing, multiple screenshares, has intuitive and immediate room entry that doesn't require sending the link(!), and a suite of operator controls to stage, unstage, move & mute participants and presenters. In a Quick Video Chat, everyone appears in a bubble a everyone's camera is on by default. Get started today at [QuickVideo.chat](https://quickvideo.chat/?utm_source=jfb-github-profile)
+
+
+
+_Or find me these other places around the web_
+
+
 ![bsky-30x30](https://github.com/user-attachments/assets/e1fe1656-c377-4a29-94af-5fe0aef4e39e) [@jaflebol.bsky.social](https://bsky.app/profile/jaflebol.bsky.social)
 
 ![JFB-Codes-logosmall-25x25](https://github.com/jasonfb/jasonfb/assets/59002/9ae03eb9-6e9e-446a-8302-cc3fd372769c) [Jason's Online School](https://school.jfbcodes.com)
