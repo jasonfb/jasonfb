@@ -6,7 +6,7 @@ Here are a few of the projects I'm working on:
 
 ![fulllogo_transparent_nobuffer-100x](https://github.com/user-attachments/assets/247122b1-2734-4348-ba2a-d769274fb3ee) 
 
-Quick Video Chat is the first all-in-one browser based presentation platform for modern video chatting. It supports screensharing, multiple screenshares, has intuitive and immediate room entry that doesn't require sending the link(!), and a suite of operator controls to stage, unstage, move & mute participants and presenters. In a Quick Video Chat, everyone appears in a bubble a everyone's camera is on by default. Get started today at [QuickVideo.chat](https://quickvideo.chat/?utm_source=jfb-github-profile)
+Quick Video Chat is the first all-in-one browser-based presentation platform for modern video chatting. It supports screensharing, multiple screenshares, has intuitive and immediate room entry that doesn't require sending the link(!), and a suite of operator controls to stage, unstage, move & mute participants and presenters. In a Quick Video Chat, everyone appears in a bubble a everyone's camera is on by default. Get started today at [QuickVideo.chat](https://quickvideo.chat/?utm_source=jfb-github-profile)
 
 
 
