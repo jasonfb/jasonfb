@@ -15,7 +15,7 @@ _Or find me these other places around the web_
 ![Hot Glue Vert-30x30](https://github.com/user-attachments/assets/e741317b-f1fa-4468-bb41-392a20798b61)
 [Hot Glue Rails Gem](https://github.com/hot-glue-for-rails/hot-glue)
 
-The swiss-army knife of Ruby on Rails 8 scaffolding options, with the ability to slice up a CRUD/list layout, field-level access control, and perfect integration with the lightning fast Rails Turbo page loading parasigm (default in Rails 8).
+The swiss-army knife of Ruby on Rails 8 scaffolding options, with the ability to slice up a CRUD/list layout, field-level access control, and perfect integration with the lightning fast Rails Turbo page loading paradigm (default in Rails 8).
 
 ![bsky-30x30](https://github.com/user-attachments/assets/e1fe1656-c377-4a29-94af-5fe0aef4e39e) [@jaflebol.bsky.social](https://bsky.app/profile/jaflebol.bsky.social)
 
