@@ -15,7 +15,7 @@ My Bsky is where I published my latest works: Essays on tech, AI, and product ad
 My online school for learning fundamentals of being a programmer, IT, devops or devex engineer. 
 
 ![YouTube-25x25](https://user-images.githubusercontent.com/59002/146845531-91203086-a115-4898-935b-d59adb2b8b1a.png) 
-[JFBCodes on YouTube](https://www.youtube.com/channel/UCQc0S94urfhKnmN6Iy248Tg) 
+[JFBCodes on YouTube](https://www.youtube.com/@jfbcodes/shorts) 
 
 My YouTube channel features videos about testing, scrum, coding in the age of AI, and more. 
 
