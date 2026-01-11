@@ -21,6 +21,9 @@ Open source Gems I maintain:
 The swiss-army knife of Ruby on Rails 8 scaffolding options, with the ability to slice up a CRUD/list layout, field-level access control, and perfect integration with the lightning fast Rails Turbo page loading paradigm (default in Rails 8).
 
 
+[Universal Track Manager](https://github.com/jasonfb/universal-track-manager)
+The easiest way to pull UTM parameters from your site traffic. Ideal for Rails app that want to track UTM parameters in-house.
+
 
 ---
 
