@@ -28,6 +28,8 @@ The easiest way to pull UTM parameters from your site traffic. Ideal for Rails a
 
 [Nonschema Migrations](https://github.com/jasonfb/nonschema_migrations)
 
+<img width="30" height="30" alt="NSM-logo-30x30" src="https://github.com/user-attachments/assets/e89dc794-4ab1-45e0-a76b-778920163da1" />
+
 Separate schema migrations from data migrations in your Rails apps.
 
 
